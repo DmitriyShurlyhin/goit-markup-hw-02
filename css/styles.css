@@ -1,0 +1,23 @@
+:root {
+  --bacckground-color-dark: #2f303a;
+  --features-background-color: #e5e5e5;
+  --header-background-color: #ffffff;
+  --team-background-color: #f5f4fa;
+  --accent-background-color: #2196f3;
+  --color-dark: #212121;
+  --color-grey: #757575;
+  --color-white: #ffffff;
+}
+.logo {
+  color: var(--color-dark);
+  text-decoration: none;
+  font-family: Raleway;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 26px;
+  line-height: 1.19;
+  letter-spacing: 0.03em;
+}
+span {
+  color: var(--accent-background-color);
+}
